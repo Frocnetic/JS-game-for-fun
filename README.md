@@ -10,4 +10,6 @@ det bliver muligtvis til eksamens projekt
 JavaScript
 
 ## Idéer til spillet
-Hvis man rammer loftet flipper gravity
+1. Hvis man rammer loftet flipper gravity
+2. Turnbased
+3. Grappling hook
