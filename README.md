@@ -1,5 +1,5 @@
 # JavaScript spil
-det bliver muligtvis til eksamens projekt
+
 
 ## Funktionalitet
 1. Procedurally generated terrain
